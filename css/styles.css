@@ -1,13 +1,13 @@
 :root {
-    --primary-text-color:
+    --primary-text-color: rgba: (0,0,0,0);
     --title-text-color:
-    --akcent-color
+    --akcent-color:
 }
 
 
 /* тело сайта */
 .body{
-    background-color: #E5E5E5;
+    background-color: #ffffff;
     
 }
 

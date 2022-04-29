@@ -1,15 +1,8 @@
-:root {
-    --primary-text-color: rgba: (0,0,0,0);
-    --title-text-color:
-    --akcent-color:
-}
-
-
-/* тело сайта */
-.body{
+.root {
     
 }
 
-.link {
-    
+
+.body {
+    background-color: aqua;
 }
